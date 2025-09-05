@@ -7,7 +7,7 @@ const Filter = ({ filter, setFilter }) => {
                 <select value={filter} onChange={(e) => setFilter(e.target.value)}>
                     <option value="All">Todas</option>
                     <option value="Completed">Concluídas</option>
-                    <option value="Incompleted">Não finalizadas</option>
+                    <option value="Incompleted">Pendentes</option>
                 </select>
             </div>
         </div>
