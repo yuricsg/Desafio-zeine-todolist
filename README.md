@@ -51,3 +51,5 @@ npm run dev
 
 ## Veja o vídeo mostrando as funcionalidades pelo link: 
 https://youtu.be/MrceBB1JEpY
+
+Deploy do site: https://desafio-zeine-todolist.vercel.app/
